@@ -2,8 +2,8 @@ html{
     font-family:Verdana;
 }
 
-img{
-    position:relative;
+#Imagen{
+   
     width:600px;
 }
 
@@ -52,3 +52,4 @@ table{
     font-size: 12px;
 
 }
+
